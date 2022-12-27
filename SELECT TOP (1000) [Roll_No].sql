@@ -1,0 +1,7 @@
+SELECT TOP (1000) [Roll_No]
+      ,[First_Name]
+      ,[Last_Name]
+      ,[Age]
+      ,[Marks]
+      ,[shoppingmall]
+  FROM [sample].[dbo].[student]

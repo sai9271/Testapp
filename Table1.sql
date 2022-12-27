@@ -1,0 +1,4 @@
+CREATE TABLE marks 
+(
+  [Id] INT NOT NULL PRIMARY KEY
+)
